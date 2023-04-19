@@ -1,0 +1,7 @@
+
+npx create-react-app react-todo
+
+npm install react-icons --save
+npm install react-modal --save
+
+npm start
